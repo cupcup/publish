@@ -1,0 +1,23 @@
+{
+  "name": "cup-publish",
+  "version": "0.0.1",
+  "description": "Cup publish",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cupcup/publish.git"
+  },
+  "author": {
+    "name": "Magnus Dahlstrand",
+    "email": "magnus@mdahlstrand.com",
+    "url": "https://mdahlstrand.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cupcup/publish/issues"
+  },
+  "homepage": "https://github.com/cupcup/publish#readme"
+}
